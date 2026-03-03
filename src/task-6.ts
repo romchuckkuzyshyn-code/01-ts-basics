@@ -1,3 +1,4 @@
+import "./task-7";
 function getFirstElement<T>(arr: T[]): T {
   return arr[0];
 }

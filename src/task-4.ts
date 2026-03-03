@@ -1,3 +1,4 @@
+import "./task-5";
 function printUserInfo(name: string, age: number, email?: string): void {
   console.log("Name:", name);
   console.log("Age:", age);

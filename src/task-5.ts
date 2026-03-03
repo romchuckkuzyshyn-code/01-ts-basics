@@ -1,3 +1,4 @@
+import "./task-6";
 type status = "loading" | "success" | "error";
 
 function logStatus(status: status): void {

@@ -1,3 +1,4 @@
+import "./task-8";
 function getMessage(): Promise<string> {
   return new Promise((resolve) => {
     setTimeout(() => {

@@ -1,3 +1,4 @@
+import "./task-3";
 interface Product {
   readonly id: number;
   title: string;
